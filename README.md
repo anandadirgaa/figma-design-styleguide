@@ -1,2 +1,2 @@
-# figma-token-design-system
-design system
+# figma-styleguide
+design guide
