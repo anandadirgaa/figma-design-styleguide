@@ -2817,5 +2817,43 @@
         "type": "typography"
       }
     }
+  },
+  "Babywise": {
+    "Primary": {
+      "Blue Babywise 800": {
+        "value": "#3f98b0",
+        "type": "color"
+      },
+      "Blue Babywise 600": {
+        "value": "#82c1d2",
+        "type": "color"
+      },
+      "Blue Babywise 200": {
+        "value": "#cee7ed",
+        "type": "color"
+      },
+      "Blue Babywise 100": {
+        "value": "#f4f9fb",
+        "type": "color"
+      }
+    },
+    "Secondary": {
+      "Green Babywise 700": {
+        "value": "#7b892e",
+        "type": "color"
+      },
+      "Green Babywise 500": {
+        "value": "#b4c656",
+        "type": "color"
+      },
+      "Green Babywise 200": {
+        "value": "#d5dfa0",
+        "type": "color"
+      },
+      "Green Babywise 100": {
+        "value": "#f8faf0",
+        "type": "color"
+      }
+    }
   }
 }
